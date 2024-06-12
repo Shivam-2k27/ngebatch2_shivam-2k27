@@ -105,5 +105,19 @@ return newArray;
 // 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania'
 // For the list above, it would return false
 export function isGlobalGroup (developers: Developer[]) {
-/* const zonerArray:string[]= ['Africa', 'Americas', 'Asia', 'Europe', 'Oceania'] */
+const zonerArray= [{ctry:'Africa',count:1}, {ctry:'Americas',count:1}, {ctry:'Asia',count:1} ,{ctry:'Europe',count:1}, {ctry:'Oceania',count:1}] 
+const devArray=developers.map(items=>items.continent)
+zonerArray.forEach(items=>{
+for(let j=0;j<devArray.length;j++)
+{
+  if(items.ctry==devArray[j])
+  {
+    items.count=0;
+  }
+}
+})
+if( zonerArray.reduce((a,b)=>a + b.count,0) ==0)
+return true
+else
+return false
 }

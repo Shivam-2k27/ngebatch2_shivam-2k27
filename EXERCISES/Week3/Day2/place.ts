@@ -6,3 +6,6 @@ export function place(board: any, player: any, column: any) {
     }
   }
 }
+
+
+

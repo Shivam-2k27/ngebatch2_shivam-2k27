@@ -5,7 +5,8 @@
   "main": "array-methods.js",
   "scripts": {
     "test": "jest",
-    "coverage": "npx jest --coverage"
+    "coverage": "npx jest --coverage",
+    "start": "ts-node"
   },
   "author": "",
   "license": "ISC",

@@ -1,0 +1,23 @@
+2024-07-31 14:50:41.370 [info] Extension host with pid 94280 started
+2024-07-31 14:50:41.406 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-31 14:50:41.414 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-31 14:50:41.440 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 14:50:41.496 [info] Eager extensions activated
+2024-07-31 14:50:41.562 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:50:41.563 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:50:50.378 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-31 14:54:12.032 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 14:54:12.042 [info] Extension host with pid 94280 exiting with code 0
+2024-07-31 14:54:12.999 [info] Extension host with pid 98643 started
+2024-07-31 14:54:12.999 [info] Skipping acquiring lock for /root/Shivam/NGE-BATCH2/AWS/db/User/workspaceStorage/235a9bfc19998e4e1f7fefac28ed5b16.
+2024-07-31 14:54:13.012 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-31 14:54:13.018 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-31 14:54:13.032 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 14:54:13.113 [info] Eager extensions activated
+2024-07-31 14:54:13.120 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:54:13.122 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:54:14.954 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-31 14:54:23.580 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-07-31 14:54:23.611 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-01 05:18:18.805 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-01 05:18:18.849 [info] Extension host with pid 98643 exiting with code 0

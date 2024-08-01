@@ -1,0 +1,21 @@
+2024-07-31 14:44:20.594 [info] Extension host with pid 92221 started
+2024-07-31 14:44:20.619 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-31 14:44:20.657 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-31 14:44:20.678 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 14:44:20.741 [info] Eager extensions activated
+2024-07-31 14:44:20.808 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:44:20.809 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:45:45.286 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 14:45:45.296 [info] Extension host with pid 92221 exiting with code 0
+2024-07-31 14:45:46.183 [info] Extension host with pid 92863 started
+2024-07-31 14:45:46.183 [info] Skipping acquiring lock for /root/Shivam/NGE-BATCH2/AWS/db/User/workspaceStorage/f62d233ae1c0b9d6f7a175276b189ca6.
+2024-07-31 14:45:46.212 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-31 14:45:46.214 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-31 14:45:46.272 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 14:45:46.384 [info] Eager extensions activated
+2024-07-31 14:45:46.388 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:45:46.390 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 14:45:47.901 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-31 14:46:18.229 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-31 14:47:02.306 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 14:47:02.331 [info] Extension host with pid 92863 exiting with code 0

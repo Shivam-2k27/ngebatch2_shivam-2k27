@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "077e7130-b8f9-4e42-a8f6-5b3b7d98445e",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://i10ydxivyi.execute-api.ap-south-1.amazonaws.com/prod/",
+        "url": "https://i10ydxivyi.execute-api.ap-south-1.amazonaws.com/prod/",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2024-07-31T14:32:52.185Z",
+        "modified": "2024-07-31T14:32:52.185Z",
+        "headers": []
+    }
+]

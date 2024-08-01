@@ -1,0 +1,91 @@
+[
+    {
+        "_id": "077e7130-b8f9-4e42-a8f6-5b3b7d98445e",
+        "colId": "history",
+        "created": "2024-07-31T14:32:52.967Z",
+        "modified": "2024-07-31T14:32:52.967Z",
+        "response": {
+            "responseText": "",
+            "filePath": "",
+            "type": "json",
+            "headers": [
+                {
+                    "name": "content-type",
+                    "value": "application/json"
+                },
+                {
+                    "name": "content-length",
+                    "value": "540"
+                },
+                {
+                    "name": "connection",
+                    "value": "close"
+                },
+                {
+                    "name": "date",
+                    "value": "Wed, 31 Jul 2024 14:32:52 GMT"
+                },
+                {
+                    "name": "x-amzn-trace-id",
+                    "value": "Root=1-66aa4b14-1cb3df594ebcba47589c81c8;Parent=6343ec673d67a0c3;Sampled=0;lineage=e012eefe:0"
+                },
+                {
+                    "name": "x-amzn-requestid",
+                    "value": "a78c3ba3-8764-45af-919a-f867e11dd09f"
+                },
+                {
+                    "name": "x-amz-apigw-id",
+                    "value": "byCrOG0HBcwEGmw="
+                },
+                {
+                    "name": "x-cache",
+                    "value": "Miss from cloudfront"
+                },
+                {
+                    "name": "via",
+                    "value": "1.1 9e077f08bc031bc03377d200c4c01c6a.cloudfront.net (CloudFront)"
+                },
+                {
+                    "name": "x-amz-cf-pop",
+                    "value": "HYD57-P6"
+                },
+                {
+                    "name": "x-amz-cf-id",
+                    "value": "-V9MwmtFNbwN4lH92uW5aIjbk28Q6ZUpd7wJwu8nx9pP4jyv1rye2Q=="
+                }
+            ],
+            "cookies": [],
+            "testResults": [],
+            "url": "https://i10ydxivyi.execute-api.ap-south-1.amazonaws.com/prod/",
+            "status": 200,
+            "statusText": "OK",
+            "contentType": "application/json",
+            "contentLength": "540 Bytes",
+            "responseTimeText": "736 ms",
+            "responseTime": 736,
+            "responseSize": 540,
+            "preScriptTime": 0,
+            "preReqTime": 1,
+            "reqTime": 769,
+            "postScriptTime": 0,
+            "chartHTML": ""
+        },
+        "requestInfo": {
+            "reqUrl": "https://i10ydxivyi.execute-api.ap-south-1.amazonaws.com/prod/",
+            "headers": [
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "Accept",
+                    "value": "*/*"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)"
+                }
+            ]
+        }
+    }
+]

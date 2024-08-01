@@ -1,0 +1,7 @@
+2024-07-31 13:20:31.051 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-07-31 13:20:31.110 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/root/.bashrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-07-31 13:20:31.538 [info] Started local extension host with pid 14053.
+2024-07-31 13:20:34.755 [info] [perf] Render performance baseline is 85ms
+2024-07-31 13:21:02.168 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-07-31 13:21:02.416 [info] Started local extension host with pid 15197.
+2024-07-31 13:21:05.199 [info] [perf] Render performance baseline is 89ms

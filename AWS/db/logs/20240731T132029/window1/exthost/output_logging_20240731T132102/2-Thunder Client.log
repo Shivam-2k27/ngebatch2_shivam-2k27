@@ -1,0 +1,10 @@
+
+---------------- Running Request: ----------------
+Request Url: https://i10ydxivyi.execute-api.ap-south-1.amazonaws.com/prod/
+Method: GET
+Request Headers:
+{
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)"
+}

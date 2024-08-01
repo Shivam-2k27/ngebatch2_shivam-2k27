@@ -1,0 +1,24 @@
+2024-07-31 13:20:32.214 [info] Extension host with pid 14053 started
+2024-07-31 13:20:32.324 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-31 13:20:32.405 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-31 13:20:32.433 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 13:20:32.504 [info] Eager extensions activated
+2024-07-31 13:20:32.507 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 13:20:32.511 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 13:21:01.795 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-31 13:21:01.800 [info] Extension host with pid 14053 exiting with code 0
+2024-07-31 13:21:02.711 [info] Extension host with pid 15197 started
+2024-07-31 13:21:02.711 [info] Skipping acquiring lock for /root/Shivam/NGE-BATCH2/AWS/db/User/workspaceStorage/51be25a9dc29d56789e795f46d7b34c3.
+2024-07-31 13:21:02.739 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-31 13:21:02.742 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-07-31 13:21:02.798 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-31 13:21:02.893 [info] Eager extensions activated
+2024-07-31 13:21:02.934 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 13:21:02.937 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-31 13:21:10.569 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-31 13:21:15.008 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-07-31 13:21:15.095 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-31 13:26:40.990 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-31 13:40:54.134 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-07-31 13:50:00.772 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-07-31 14:32:43.600 [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client, startup: false, activationEvent: 'onView:thunder-client-sidebar'

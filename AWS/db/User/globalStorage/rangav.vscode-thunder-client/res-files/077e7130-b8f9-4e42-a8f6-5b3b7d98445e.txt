@@ -1,0 +1,18 @@
+[
+  {
+    "summary": "the royal concert building near Amsterdam’s Museumplein is one of the most visited concert halls in the world.",
+    "capacity": "1000",
+    "available_to": "28-10-24",
+    "available_from": "24-10-24",
+    "venue_coordinates": "52°21′23″N 4°52′45″E",
+    "email": "concertgebouw@gmail.com",
+    "venue": "Concertgebouw",
+    "country": "Netherlands",
+    "venue-owner": "Harry Porter",
+    "city": "Amsterdam",
+    "image_url": "https://www.travelmag.com/wp-content/uploads/2023/05/Grote-Zaal-%C2%A9-Hans-Roggen-2-1536x1024.jpg",
+    "id": "2",
+    "phone": 9144757926,
+    "type": "closed"
+  }
+]
